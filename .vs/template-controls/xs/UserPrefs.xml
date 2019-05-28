@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{5F77EE1A-E524-4F48-80AA-A1044ABFEAEA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="template-controls/Views/ItemDetailPage.xaml">
+    <Files>
+      <File FileName="template-controls/Views/ItemDetailPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="template-controls" expanded="True">
+            <Node name="template-controls" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Template" expanded="True" />
+                <Node name="ItemDetailPage.xaml" expanded="True" selected="True" />
+              </Node>
+            </Node>
+            <Node name="template-controls.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.template-controls.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FF21F060-C489-4480-88B1-B025CE292CD5" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/roswergarcia/Projects/template-controls/template-controls/Views/Template/LabelTemplate.xaml.cs" relfile="template-controls/Views/Template/LabelTemplate.xaml.cs" line="94" column="1" />
+      <Breakpoint file="/Users/roswergarcia/Projects/template-controls/template-controls/Views/Template/LabelTemplate.xaml.cs" relfile="template-controls/Views/Template/LabelTemplate.xaml.cs" line="96" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="multiprojId" Name="Varios proyectos">
+      <Items>
+        <StartupItem ItemId="{5B228204-7343-4B2C-8575-48B990D64610}" ItemName="template-controls.Android" />
+        <StartupItem ItemId="{5F77EE1A-E524-4F48-80AA-A1044ABFEAEA}" ItemName="template-controls.iOS" />
+        <StartupItem ItemId="{4AFD4942-4499-4C73-9808-90BCEEF12C6F}" ItemName="template-controls.MobileAppService" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.template-controls.MobileAppService PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.template-controls.Android PreferredExecutionTarget="Android.10.1_WXGA_Tablet_API_23" />
+</Properties>

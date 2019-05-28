@@ -1,0 +1,11 @@
+/Users/roswergarcia/Projects/template-controls/template-controls.MobileAppService/bin/Debug/netcoreapp2.0/template-controls.MobileAppService.deps.json
+/Users/roswergarcia/Projects/template-controls/template-controls.MobileAppService/bin/Debug/netcoreapp2.0/template-controls.MobileAppService.runtimeconfig.json
+/Users/roswergarcia/Projects/template-controls/template-controls.MobileAppService/bin/Debug/netcoreapp2.0/template-controls.MobileAppService.runtimeconfig.dev.json
+/Users/roswergarcia/Projects/template-controls/template-controls.MobileAppService/bin/Debug/netcoreapp2.0/template-controls.MobileAppService.dll
+/Users/roswergarcia/Projects/template-controls/template-controls.MobileAppService/bin/Debug/netcoreapp2.0/template-controls.MobileAppService.pdb
+/Users/roswergarcia/Projects/template-controls/template-controls.MobileAppService/obj/Debug/netcoreapp2.0/template-controls.MobileAppService.csprojAssemblyReference.cache
+/Users/roswergarcia/Projects/template-controls/template-controls.MobileAppService/obj/Debug/netcoreapp2.0/template-controls.MobileAppService.csproj.CoreCompileInputs.cache
+/Users/roswergarcia/Projects/template-controls/template-controls.MobileAppService/obj/Debug/netcoreapp2.0/template-controls.MobileAppService.AssemblyInfoInputs.cache
+/Users/roswergarcia/Projects/template-controls/template-controls.MobileAppService/obj/Debug/netcoreapp2.0/template-controls.MobileAppService.AssemblyInfo.cs
+/Users/roswergarcia/Projects/template-controls/template-controls.MobileAppService/obj/Debug/netcoreapp2.0/template-controls.MobileAppService.dll
+/Users/roswergarcia/Projects/template-controls/template-controls.MobileAppService/obj/Debug/netcoreapp2.0/template-controls.MobileAppService.pdb
