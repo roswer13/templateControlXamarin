@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace templatecontrols.Views.Template
+namespace templatecontrols.Util
 {
     public static class SkeletonView
     {
@@ -35,13 +35,15 @@ namespace templatecontrols.Views.Template
             if (newValue)
             {
                 IsReplay = true;
-                page.Appearing += Page_Appearing;
+                Page_Appearing(page);
             }
             else
+            {
                 IsReplay = false;
+            }
         }
 
-        static void Page_Appearing(object sender, EventArgs e)
+        static void Page_Appearing(Element sender)
         {
             if (sender.GetType().IsSubclassOf(typeof(ContentPage)))
                 IterateChildren((sender as ContentPage).Content);

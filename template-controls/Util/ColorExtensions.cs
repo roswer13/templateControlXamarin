@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace templatecontrols.Views.Template
+namespace templatecontrols.Util
 {
     public static class ColorExtensions
     {

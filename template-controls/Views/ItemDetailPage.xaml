@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
              ios:Page.UseSafeArea="true"
-             xmlns:templates="clr-namespace:templatecontrols.Views.Template"
+             xmlns:templates="clr-namespace:templatecontrols.Util"
              x:Class="template_controls.Views.ItemDetailPage"
              Title="{Binding Title}" 
              templates:SkeletonView.IsLoading="{Binding IsLoading}">

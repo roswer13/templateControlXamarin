@@ -1,6 +1,7 @@
 /Users/roswergarcia/Projects/template-controls/template-controls/bin/Debug/netstandard2.0/template-controls.deps.json
 /Users/roswergarcia/Projects/template-controls/template-controls/bin/Debug/netstandard2.0/template-controls.dll
 /Users/roswergarcia/Projects/template-controls/template-controls/bin/Debug/netstandard2.0/template-controls.pdb
+/Users/roswergarcia/Projects/template-controls/template-controls/obj/Debug/netstandard2.0/template-controls.csprojAssemblyReference.cache
 /Users/roswergarcia/Projects/template-controls/template-controls/obj/Debug/netstandard2.0/App.xaml.g.cs
 /Users/roswergarcia/Projects/template-controls/template-controls/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
 /Users/roswergarcia/Projects/template-controls/template-controls/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
@@ -13,4 +14,3 @@
 /Users/roswergarcia/Projects/template-controls/template-controls/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/roswergarcia/Projects/template-controls/template-controls/obj/Debug/netstandard2.0/template-controls.dll
 /Users/roswergarcia/Projects/template-controls/template-controls/obj/Debug/netstandard2.0/template-controls.pdb
-/Users/roswergarcia/Projects/template-controls/template-controls/obj/Debug/netstandard2.0/template-controls.csprojAssemblyReference.cache

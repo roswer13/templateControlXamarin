@@ -1,21 +1,23 @@
 ﻿<Properties StartupConfiguration="{5F77EE1A-E524-4F48-80AA-A1044ABFEAEA}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="template-controls/Views/Template/SkeletonView.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="template-controls/Util/SkeletonView.cs">
     <Files>
-      <File FileName="template-controls/Views/ItemDetailPage.xaml" />
-      <File FileName="template-controls/Views/Template/SkeletonView.cs" Line="57" Column="18" />
+      <File FileName="template-controls/Util/SkeletonView.cs" Line="37" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="template-controls" expanded="True">
             <Node name="template-controls" expanded="True">
-              <Node name="Util" expanded="True" />
+              <Node name="Util" expanded="True">
+                <Node name="SkeletonView.cs" selected="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Template" expanded="True">
-                  <Node name="SkeletonView.cs" selected="True" />
-                </Node>
+                <Node name="ItemDetailPage.xaml" expanded="True" />
               </Node>
             </Node>
+            <Node name="template-controls.Android" expanded="True" />
+            <Node name="template-controls.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -28,6 +30,8 @@
     <BreakpointStore>
       <Breakpoint file="/Users/roswergarcia/Projects/template-controls/template-controls/Views/Template/LabelTemplate.xaml.cs" relfile="template-controls/Views/Template/LabelTemplate.xaml.cs" line="94" column="1" />
       <Breakpoint file="/Users/roswergarcia/Projects/template-controls/template-controls/Views/Template/LabelTemplate.xaml.cs" relfile="template-controls/Views/Template/LabelTemplate.xaml.cs" line="96" column="1" />
+      <Breakpoint file="/Users/roswergarcia/Projects/template-controls/template-controls/Util/SkeletonView.cs" relfile="template-controls/Util/SkeletonView.cs" line="33" column="1" />
+      <Breakpoint file="/Users/roswergarcia/Projects/template-controls/template-controls/Util/SkeletonView.cs" relfile="template-controls/Util/SkeletonView.cs" line="37" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations>

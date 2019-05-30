@@ -1,6 +1,11 @@
 /Users/roswergarcia/Projects/template-controls/template-controls.iOS/bin/iPhoneSimulator/Debug/template_controls.iOS.exe
 /Users/roswergarcia/Projects/template-controls/template-controls.iOS/bin/iPhoneSimulator/Debug/template_controls.iOS.pdb
 /Users/roswergarcia/Projects/template-controls/template-controls.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/roswergarcia/Projects/template-controls/template-controls.iOS/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/roswergarcia/Projects/template-controls/template-controls.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/roswergarcia/Projects/template-controls/template-controls.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/roswergarcia/Projects/template-controls/template-controls.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/roswergarcia/Projects/template-controls/template-controls.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll
 /Users/roswergarcia/Projects/template-controls/template-controls.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
 /Users/roswergarcia/Projects/template-controls/template-controls.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
 /Users/roswergarcia/Projects/template-controls/template-controls.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
@@ -61,9 +66,9 @@
 /Users/roswergarcia/Projects/template-controls/template-controls.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-12.2/optimized/xamarin_logo@2x.png
 /Users/roswergarcia/Projects/template-controls/template-controls.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-12.2/optimized/xamarin_logo@3x.png
 /Users/roswergarcia/Projects/template-controls/template-controls.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-12.2/optimized/
+/Users/roswergarcia/Projects/template-controls/template-controls.iOS/obj/iPhoneSimulator/Debug/template-controls.iOS.csprojAssemblyReference.cache
 /Users/roswergarcia/Projects/template-controls/template-controls.iOS/obj/iPhoneSimulator/Debug/template-controls.iOS.csproj.CoreCompileInputs.cache
 /Users/roswergarcia/Projects/template-controls/template-controls.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
 /Users/roswergarcia/Projects/template-controls/template-controls.iOS/obj/iPhoneSimulator/Debug/template-controls.iOS.csproj.CopyComplete
 /Users/roswergarcia/Projects/template-controls/template-controls.iOS/obj/iPhoneSimulator/Debug/template_controls.iOS.exe
 /Users/roswergarcia/Projects/template-controls/template-controls.iOS/obj/iPhoneSimulator/Debug/template_controls.iOS.pdb
-/Users/roswergarcia/Projects/template-controls/template-controls.iOS/obj/iPhoneSimulator/Debug/template-controls.iOS.csprojAssemblyReference.cache
