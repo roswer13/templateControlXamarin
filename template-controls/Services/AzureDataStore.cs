@@ -22,7 +22,7 @@ namespace template_controls.Services
             items = new List<Item>();
         }
 
-        bool IsConnected => Connectivity.NetworkAccess != NetworkAccess.Internet;
+        bool IsConnected => Connectivity.NetworkAccess == NetworkAccess.Internet;
         public async Task<IEnumerable<Item>> GetItemsAsync(bool forceRefresh = false)
         {
             if (forceRefresh && IsConnected)
@@ -52,7 +52,7 @@ namespace template_controls.Services
 
             var serializedItem = JsonConvert.SerializeObject(item);
 
-            var response = await client.PostAsync($"api/item", new StringContent(serializedItem, Encoding.UTF8, "application/json"));
+            var response = await client?.PostAsync($"api/item", new StringContent(serializedItem, Encoding.UTF8, "application/json"));
 
             return response.IsSuccessStatusCode;
         }

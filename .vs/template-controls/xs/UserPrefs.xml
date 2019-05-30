@@ -1,26 +1,27 @@
 ﻿<Properties StartupConfiguration="{5F77EE1A-E524-4F48-80AA-A1044ABFEAEA}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="template-controls/Views/ItemDetailPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="template-controls/Views/Template/SkeletonView.cs">
     <Files>
       <File FileName="template-controls/Views/ItemDetailPage.xaml" />
+      <File FileName="template-controls/Views/Template/SkeletonView.cs" Line="57" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="template-controls" expanded="True">
             <Node name="template-controls" expanded="True">
-              <Node name="ViewModels" expanded="True" />
+              <Node name="Util" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Template" expanded="True" />
-                <Node name="ItemDetailPage.xaml" expanded="True" selected="True" />
+                <Node name="Template" expanded="True">
+                  <Node name="SkeletonView.cs" selected="True" />
+                </Node>
               </Node>
             </Node>
-            <Node name="template-controls.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.template-controls.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FF21F060-C489-4480-88B1-B025CE292CD5" />
+  <MonoDevelop.Ide.ItemProperties.template-controls.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FF21F060-C489-4480-88B1-B025CE292CD5" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -39,5 +40,5 @@
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
   <MonoDevelop.Ide.ItemProperties.template-controls.MobileAppService PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.template-controls.Android PreferredExecutionTarget="Android.10.1_WXGA_Tablet_API_23" />
+  <MonoDevelop.Ide.ItemProperties.template-controls.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
 </Properties>

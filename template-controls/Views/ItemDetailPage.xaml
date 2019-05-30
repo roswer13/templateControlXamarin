@@ -5,12 +5,13 @@
              ios:Page.UseSafeArea="true"
              xmlns:templates="clr-namespace:templatecontrols.Views.Template"
              x:Class="template_controls.Views.ItemDetailPage"
-             Title="{Binding Title}">
+             Title="{Binding Title}" 
+             templates:SkeletonView.IsLoading="{Binding IsLoading}">
     <StackLayout Spacing="20" Padding="15">
         <Label Text="Text:" FontSize="Medium" />
-        <templates:SkeletonView Text="{Binding Item.Text}" IsLoading="{Binding IsLoading}" />
+        <Label Text="{Binding Item.Text}"/>
         <Label Text="Description:" FontSize="Medium" />
-        <templates:SkeletonView Text="{Binding Item.Description}" IsLoading="{Binding IsLoading}" />
+        <Label Text="{Binding Item.Description}"/>
         <Button Text="Skeleton Load" Command="{Binding SkeletonLoadCommand}" />
     </StackLayout>
 </ContentPage>
